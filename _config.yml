@@ -7,7 +7,7 @@ url: "https://pret-t.github.io"
 
 
 # Secondary Parameters
-baseurl: "/blog"
+baseurl: "blog"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /blog/img/logos/Project-Pages-New-Logo-Inverted.png
