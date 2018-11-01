@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="724b1960-1987-4dd7-8f25-36038edb4501" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,13 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="intro.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/intro.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-569" />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="members.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/members.yml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -46,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-05-01-iOS极光推送.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-05-01-iOS极光推送.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-214">
+            <state relative-caret-position="30">
               <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -95,10 +97,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-08-01-crc8使用.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -117,7 +119,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+    <option name="x" value="-165" />
     <option name="y" value="23" />
     <option name="width" value="1255" />
     <option name="height" value="891" />
@@ -181,15 +183,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540981111358</updated>
-      <workItem from="1540981119830" duration="3300000" />
+      <workItem from="1540981119830" duration="4754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3300000" />
+    <option name="totallyTimeSpent" value="4754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="23" width="1255" height="891" extended-state="0" />
+    <frame x="-165" y="23" width="1255" height="891" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3195219" />
@@ -251,13 +253,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -311,8 +306,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
+        <state relative-caret-position="30">
           <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
