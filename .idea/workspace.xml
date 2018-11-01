@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="724b1960-1987-4dd7-8f25-36038edb4501" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="intro.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/intro.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,17 +31,26 @@
       <file leaf-file-name="2016-04-19-New-Post.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-04-19-New-Post.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="7">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-08-01-crc8使用.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-08-01-crc8使用.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state>
+              <caret selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-05-01-iOS极光推送.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-214">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -98,6 +98,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-08-01-crc8使用.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown" />
       </list>
     </option>
   </component>
@@ -180,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540981111358</updated>
-      <workItem from="1540981119830" duration="2956000" />
+      <workItem from="1540981119830" duration="3300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2956000" />
+    <option name="totallyTimeSpent" value="3300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1255" height="891" extended-state="0" />
@@ -296,15 +297,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-04-19-New-Post.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="7">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>

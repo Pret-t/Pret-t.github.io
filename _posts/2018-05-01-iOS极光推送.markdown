@@ -1,6 +1,16 @@
-#iOS极光推送
+---
+layout:     post
+title:      极光推送
+author:     Pret
+tags: 		推送
+subtitle:  	note
+category:  project1
+---
+<!-- Start Writing Below in Markdown -->
 
-##准备工作
+# iOS极光推送
+
+## 准备工作
 * 配置好[APNs证书](https://docs.jiguang.cn/jpush/client/iOS/ios_cer_guide/)并在极光开发平台上申请到AppKey
 
 >1.导入`pod 'JPush'`
@@ -11,7 +21,7 @@
 >3.`允许http请求`
 ![](https://docs.jiguang.cn/jpush/client/image/ios_http.png)
 
-##1.初始化设置
+## 1.初始化设置
 
 `- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(nullable NSDictionary *)launchOptions`
 
@@ -47,7 +57,7 @@ JPUSHRegisterEntity * entity = [[JPUSHRegisterEntity alloc] init];
 
 ```
 
-##2.JPUSHRegisterDelegate
+## 2.JPUSHRegisterDelegate
 ```
 // iOS 10 Support
 - (void)jpushNotificationCenter:(UNUserNotificationCenter *)center willPresentNotification:(UNNotification *)notification withCompletionHandler:(void (^)(NSInteger))completionHandler {
@@ -69,7 +79,7 @@ JPUSHRegisterEntity * entity = [[JPUSHRegisterEntity alloc] init];
     NSLog(@"did Fail To Register For Remote Notifications With Error: %@", error);
 }
 ```
-###APP运行中用户点击通知调用
+### APP运行中用户点击通知调用
 ```
 // iOS 10 Support
 - (void)jpushNotificationCenter:(UNUserNotificationCenter *)center didReceiveNotificationResponse:(UNNotificationResponse *)response withCompletionHandler:(void (^)())completionHandler {
@@ -81,7 +91,7 @@ JPUSHRegisterEntity * entity = [[JPUSHRegisterEntity alloc] init];
     completionHandler();  // 系统要求执行这个方法
 }
 ```
-###APP没有运行中用户点击通知调用
+### APP没有运行中用户点击通知调用
 ```
 - (void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
     // Required, iOS 7 Support
@@ -96,7 +106,7 @@ JPUSHRegisterEntity * entity = [[JPUSHRegisterEntity alloc] init];
 
 ```
 
-##3.获取自定义消息
+## 3.获取自定义消息
 ```
 - (void)networkDidReceiveMessage:(NSNotification *)notification {
     NSDictionary * userInfo = [notification userInfo];
