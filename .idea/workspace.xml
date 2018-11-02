@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="724b1960-1987-4dd7-8f25-36038edb4501" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-02-New-Surface-Visualization.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-02-New-Surface-Visualization.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-02-CRC全套算法.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-02-CRC全套算法.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-05-02-New-Surface-Visualization.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-05-02-New-Surface-Visualization.markdown">
+      <file leaf-file-name="2018-11-02-CRC全套算法.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-02-CRC全套算法.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+            <state relative-caret-position="450">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -143,6 +143,7 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/projects/project1.md" />
         <option value="$PROJECT_DIR$/_posts/2016-05-02-New-Surface-Visualization.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-02-CRC全套算法.markdown" />
       </list>
     </option>
   </component>
@@ -161,8 +162,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="37" />
+    <option name="x" value="496" />
+    <option name="y" value="23" />
     <option name="width" value="1632" />
     <option name="height" value="1005" />
   </component>
@@ -246,15 +247,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540981111358</updated>
-      <workItem from="1540981119830" duration="11137000" />
+      <workItem from="1540981119830" duration="11428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11137000" />
+    <option name="totallyTimeSpent" value="11428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="37" width="1632" height="1005" extended-state="0" />
+    <frame x="496" y="23" width="1632" height="1005" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24571079" />
@@ -508,13 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-01-crc8使用.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -526,6 +520,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-01-iOS极光推送.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-02-CRC全套算法.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
